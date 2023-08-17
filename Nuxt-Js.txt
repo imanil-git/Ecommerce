@@ -1,0 +1,4 @@
+Starting:
+1. npx nuxi@latest init project-name.
+2. npm (node package managment) install
+3. npm run dev/(npm install yarn -g) yarn dev
